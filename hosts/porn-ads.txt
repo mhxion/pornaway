@@ -1,7 +1,7 @@
 # PornAway blacklist
-# Get PornAway in XDA Developer Forum.
+# Get PornAway for Android in XDA Developer Forum.
 # Last updated: 15 Oct, 2017
-# This list is all of verified porn Ads/TRACKERS. Enabling it will not block porn sites but only ads.
+# This list is all of verified porn Ads/TRACKERS. Enabling it will not block porn sites but only porn ads.
 # There's a different host file available for porn sites.
 
 
