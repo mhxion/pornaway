@@ -1,5 +1,5 @@
 # PornAway safe-blacklist
-# Get PornAway in XDA Developer Forum.
+# Get PornAway app for Android in XDA Developer Forum.
 # Last updated: 15 Oct, 2017
 # Not recommended if you're already satisfied by blocking porn sites and ads. 
 # This list is all of safe sites that aren't associated with porn or porn ad providers directly. 
