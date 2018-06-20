@@ -1,5 +1,5 @@
 # PornAway blacklist
-# Get PornAway for Android in XDA Developer Forum.
+# Get PornAway in XDA Developer Forum.
 # Last updated: 15 Oct, 2017
 # This list is all of porn SITES. Enabling it will not block porn ads but only the origin sites. 
 # There's a different host file available for verified porn ads/trackers.
@@ -675,6 +675,7 @@
 127.0.0.1       asso69110.org
 127.0.0.1       asstomouthangels.ws
 127.0.0.1       asstr.org
+127.0.0.1       ass4all.com
 127.0.0.1       asstraffic.com
 127.0.0.1       asstraffic.xlogz.com
 127.0.0.1       assvirgin.com
@@ -2233,6 +2234,7 @@
 127.0.0.1       heaven666.org
 127.0.0.1       heavenlytranny.com
 127.0.0.1       heavensangelsreadings.com
+127.0.0.1       heavy-r.com
 127.0.0.1       hegixic.angelfire.com
 127.0.0.1       hell-angel.com
 127.0.0.1       hello.sexer.com
@@ -2652,6 +2654,7 @@
 127.0.0.1       jigglytitts.tumblr.com
 127.0.0.1       jigolojigola.net
 127.0.0.1       jizz.xxx
+127.0.0.1       jizzle.com
 127.0.0.1       jizzboat.com
 127.0.0.1       jizzbox.com
 127.0.0.1       jizzbunker.com
@@ -3699,6 +3702,7 @@
 127.0.0.1       popander.mobi
 127.0.0.1       popporn.com
 127.0.0.1       porn2.com
+127.0.0.1       pornlive.com
 127.0.0.1       porn4ladies.tumblr.com
 127.0.0.1       porn8.com
 127.0.0.1       porn18sex.com
@@ -4592,6 +4596,7 @@
 127.0.0.1       teens-list.net
 127.0.0.1       teens-ok.com
 127.0.0.1       teens.teenssites.net
+127.0.0.1       teensnow.com
 127.0.0.1       teenscoreclub.com
 127.0.0.1       teenselfpix.com
 127.0.0.1       teensexmovs.com
@@ -7087,6 +7092,7 @@
 127.0.0.1       www.popcash.net
 127.0.0.1       www.poppen.de
 127.0.0.1       www.porn2.com
+127.0.0.1       www.pornlive.com
 127.0.0.1       www.porn8.com
 127.0.0.1       www.porn18sex.com
 127.0.0.1       www.porn-disney.com
