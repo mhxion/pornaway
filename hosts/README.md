@@ -1,4 +1,4 @@
->⦁ All hosts files were last updated in 15 Oct, 2017. 
+>⦁ All hosts files were last updated in Jun 20, 2018. 
 > 
 >⦁ Hosts files are updated occasionally.
 >  
