@@ -11,7 +11,7 @@
 
 # Additional source: Clefspeare13(github), Sinfonietta(github).
 # This list is all of  porn SITES. Enabling it will not block porn ads but only the origin sites. 
-# There's a different host file available for verified porn ads/trackers.
+# There's a different host file available for verified porn ads/trackers only.
 
 127.0.0.1  localhost
 ::1  localhost
