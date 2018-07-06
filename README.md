@@ -5,4 +5,4 @@ PornAway provides `hosts` file to enable devices to block porn sites and related
 
 
 
-***Check out the hosts file to know more about them.*** 
+#### [Check out the hosts file to know more about them](https://github.com/mhxion/pornaway/tree/master/hosts) 
