@@ -7,7 +7,7 @@
 
 [̲̅P̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅A̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅]
 
-# Additional source: StevenBlack (github).
+# Additional source: StevenBlack (github), Sinfonietta (github).
 # This list is all of safe ads that aren't associated with porn or porn ads providers directly.
 # In case you meet porn ads even after enabling the porn_sites & porn_ads file, you can try enabling this list which will block additional regular ad providers, crawlers, trackers i.e. Google ads. 
 
@@ -410,8 +410,15 @@
 #
 # [Snuff Sites]
 #
+127.0.0.1       bestgore.com
 127.0.0.1       bitcheese.net
 127.0.0.1       deathaddict.com
+127.0.0.1       elblogdelnarco.com
+127.0.0.1       gorebrasil.com
+127.0.0.1       goregrish.com
 127.0.0.1       horriblevideos.com
+127.0.0.1       kaotic.com
+127.0.0.1       miscopy.com
+127.0.0.1       theync.com
 #
 # That's all for now
