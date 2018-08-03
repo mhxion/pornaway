@@ -13601,6 +13601,7 @@
 127.0.0.1       m.facebook.com----------------securelogin----acount-confirm.aggly.com
 127.0.0.1       m.fr.xhamster.com
 127.0.0.1       m.fuckmymommyandme.com
+127.0.0.1       m.fuckup.xxx
 127.0.0.1       m.jp.xhamster.com
 127.0.0.1       m.kr.xhamster.com
 127.0.0.1       m.porntube.com
@@ -17067,6 +17068,7 @@
 127.0.0.1       pornlolita.net
 127.0.0.1       pornlolitas.com
 127.0.0.1       pornlovex.com
+127.0.0.1       pornlovo.com
 127.0.0.1       pornls.com
 127.0.0.1       pornmagnat.com
 127.0.0.1       pornmaki.com
@@ -24955,6 +24957,13 @@
 127.0.0.1       zzqrt.com
 127.0.0.1       zzsyw.com
 127.0.0.1       zzztube.com
+
+# [BETA] List of porn doamins with multitple IP addresses that serves based of the user agent. 
+
+127.0.0.1       104.27.164.240  # pornlovo.com
+127.0.0.1       104.27.165.240
+127.0.0.1       172.64.202.7  # m.fuckup.xxx
+127.0.0.1       172.64.203.7
 
 # List of duplicate (of above) & unique URLs prepended "www", as they may resolve to a different address in certain circumstances (i.e. phone, country).
 
