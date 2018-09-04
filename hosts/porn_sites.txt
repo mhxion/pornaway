@@ -24958,12 +24958,25 @@
 127.0.0.1       zzsyw.com
 127.0.0.1       zzztube.com
 
-# [BETA] List of porn doamins with multitple IP addresses that serves based of the user agent. 
+# [BETA] List of porn doamins with multitple IP addresses that serves based on the user agent. 
 
 127.0.0.1       104.27.164.240  # pornlovo.com
 127.0.0.1       104.27.165.240
 127.0.0.1       172.64.202.7  # m.fuckup.xxx
 127.0.0.1       172.64.203.7
+127.0.0.1       88.208.18.30  #xhamster.com (non-mobile + mobile: de, fr, es, it, pl, pt, jp, nl)
+127.0.0.1       88.208.29.24
+127.0.0.1       de.m.xhamster.com 
+127.0.0.1       fr.m.xhamster.com
+127.0.0.1       es.m.xhamster.com
+127.0.0.1       it.m.xhamster.com
+127.0.0.1       pl.m.xhamster.com
+127.0.0.1       pt.m.xhamster.com
+127.0.0.1       jp.m.xhamster.com
+127.0.0.1       nl.m.xhamster.com
+127.0.0.1       88.208.29.25  #ru.xhamster.com
+127.0.0.1       88.208.18.31
+127.0.0.1       ru.m.xhamster.com
 
 # List of duplicate (of above) & unique URLs prepended "www", as they may resolve to a different address in certain circumstances (i.e. phone, country).
 
