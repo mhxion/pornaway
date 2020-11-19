@@ -4852,7 +4852,6 @@
 127.0.0.1       cliphunter.com
 127.0.0.1       clippingphotoindia.com
 127.0.0.1       clipvdo.info
-127.0.0.1       cliqz.com
 127.0.0.1       cliter.com
 127.0.0.1       clitgames.com
 127.0.0.1       clknsee.com
