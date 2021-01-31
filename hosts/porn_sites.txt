@@ -18463,7 +18463,6 @@
 127.0.0.1       redhotfreebies.co.uk
 127.0.0.1       redir.webshots.com
 127.0.0.1       redirect.trafficreceiver.club
-127.0.0.1       redirectingat.com
 127.0.0.1       redirectme.net
 127.0.0.1       redirects.ero-advertising.com
 127.0.0.1       redirlock.com
