@@ -281,6 +281,7 @@
 127.0.0.1       adservices.google.com
 127.0.0.1       analytic-google.com
 127.0.0.1       analytics.google.com
+127.0.0.1       app.appsflyer.com
 127.0.0.1       b.codeonclick.com
 127.0.0.1       babanetwork.adk2x.com
 127.0.0.1       bid.g.doubleclick.net
