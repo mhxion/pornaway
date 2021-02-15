@@ -2170,7 +2170,6 @@
 127.0.0.1       app-1502132339.000webhostapp.com
 127.0.0.1       app-apple.info
 127.0.0.1       app-new.info
-127.0.0.1       app.appsflyer.com
 127.0.0.1       app.datafastguru.info
 127.0.0.1       apparel-offer.com
 127.0.0.1       apparelmachnery.com
