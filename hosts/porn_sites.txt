@@ -4660,7 +4660,6 @@
 127.0.0.1       cholo-porno.nu
 127.0.0.1       chom.co.th
 127.0.0.1       choosecuisine.com
-127.0.0.1       choosemyplate.gov
 127.0.0.1       choosetolearn.ca
 127.0.0.1       chooseyourwoman.com
 127.0.0.1       choov4fa.com
