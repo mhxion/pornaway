@@ -15,7 +15,7 @@
 
 127.0.0.1  localhost
 ::1  localhost
-
+127.0.0.1       iwank.hu
 127.0.0.1       tubepornfilm.com
 127.0.0.1       theyarehuge.com
 127.0.0.1       largehdtube.com
