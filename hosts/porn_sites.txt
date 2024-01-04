@@ -2,20 +2,86 @@
 # D̲i̲r̲e̲c̲t̲ ̲P̲o̲r̲n̲ ̲U̲R̲L̲ ̲F̲i̲l̲e̲ (see line 13, 14)
 
 # Get PornAway android app in XDA Developer Forum.
-# Last updated: 3 August, 2018.
+# Last updated: 4 January, 2024.
 # Licensed under The MIT License.
 
-# Number of Unique URLs: 26000 [PORN DOMAINS ONLY]
+# Number of Unique URLs: 31638 [PORN DOMAINS ONLY]
 
 # [̲̅P̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅A̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅]
 
 # Additional source & thanks to: Clefspeare13 (github), Sinfonietta (github).
-# This list is all of  porn SITES. Enabling it will not block porn ads but only the origin sites. 
+# This list is all of porn SITES. Enabling it will not block porn ads but only the origin sites. 
 # There's a different host file available for verified porn ads/trackers.
 
 127.0.0.1  localhost
 ::1  localhost
-127.0.0.1       iwank.hu
+
+127.0.0.1       blackpussy.video
+127.0.0.1       teensfreesex.com
+127.0.0.1       nudephotography.me
+127.0.0.1       teenfree.pro
+127.0.0.1       perfect-girls.me
+127.0.0.1       teenporncum.com
+127.0.0.1       youngtits.mobi
+127.0.0.1       girlporn.tube
+127.0.0.1       theporndude.org
+127.0.0.1       pornlib.com
+127.0.0.1       xfollow.com
+127.0.0.1       tubev.sex
+127.0.0.1       milfporn.tv
+127.0.0.1       xxxvideos247.com
+127.0.0.1       pornfaze.com
+127.0.0.1       l.clips4sale.com
+127.0.0.1       fapster.xxx
+127.0.0.1       hdxnxx.xxx
+127.0.0.1       pornhat.one
+127.0.0.1       letsporn.com
+127.0.0.1       hog.tv
+127.0.0.1       creative.mnaspm.com
+127.0.0.1       porngo.com
+127.0.0.1       uiporn.com
+127.0.0.1       veryfreeporn.net
+127.0.0.1       porntry.com
+127.0.0.1       xtits.com
+127.0.0.1       xhand.com
+127.0.0.1       tubepornstars.com
+127.0.0.1       porngem.com
+127.0.0.1       analdin.xxx
+127.0.0.1       xxxshake.com
+127.0.0.1       momvids.com
+127.0.0.1       xtits.xxx
+127.0.0.1       love4porn.com
+127.0.0.1       faphouse.com
+127.0.0.1       xxam.org
+127.0.0.1       loyalfans.com
+127.0.0.1       4kporn.xxx
+127.0.0.1       babestube.com
+127.0.0.1       interracial.com
+127.0.0.1       4wank.com
+127.0.0.1       jizzberry.com
+127.0.0.1       theyarehuge.com
+127.0.0.1       hoes.tube
+127.0.0.1       faptor.com
+127.0.0.1       ebony8.com
+127.0.0.1       porner.tv
+127.0.0.1       freeporn8.com
+127.0.0.1       sortporn.com
+127.0.0.1       hdsex2.com
+127.0.0.1       fapcat.com
+127.0.0.1       desi-porn.tube
+127.0.0.1       tube3.com
+127.0.0.1       porntry.com
+127.0.0.1       pornlib.com
+127.0.0.1       maturetubehere.com
+127.0.0.1       bdsm.one
+127.0.0.1       hdsex2.com
+127.0.0.1       amateur8.com
+127.0.0.1       lobstertube.com
+127.0.0.1       pornbox.com
+127.0.0.1       milffox.com
+127.0.0.1       crazyporn.xxx
+127.0.0.1       hoes.tube
+127.0.0.1       bestpornstars.xxx
 127.0.0.1       tubepornfilm.com
 127.0.0.1       theyarehuge.com
 127.0.0.1       largehdtube.com
@@ -34,10 +100,10 @@
 127.0.0.1       luxuretv.com
 127.0.0.1       en.luxuretv.com
 127.0.0.1       fpo.xxx
-127.0.0.1    	xnxx.llc
-127.0.0.1    	youjizz.sex
-127.0.0.1	    porzo.com
-127.0.0.1   	sexlikereal.com
+127.0.0.1      	xnxx.llc
+127.0.0.1      	youjizz.sex
+127.0.0.1	      porzo.com
+127.0.0.1   	  sexlikereal.com
 127.0.0.1       000.gaysexe.free.fr
 127.0.0.1       000free.us
 127.0.0.1       000owamail0.000webhostapp.com
