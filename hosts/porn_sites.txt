@@ -5,7 +5,7 @@
 # Last updated: 4 January, 2024.
 # Licensed under The MIT License.
 
-# Number of Unique URLs: 31638 [PORN DOMAINS ONLY]
+# Number of Unique URLs: around 31638 [PORN DOMAINS ONLY]
 
 # [̲̅P̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅A̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅]
 
@@ -15,7 +15,7 @@
 
 127.0.0.1  localhost
 ::1  localhost
-
+127.0.0.1       anyxxx.me
 127.0.0.1       redwap-xxx.com
 127.0.0.1       hubetubex.com
 127.0.0.1       pornaxo.com
